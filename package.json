@@ -18,6 +18,14 @@
   ],
   "author": "Carlos Castillo Oporta",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caco0516/sequelize-models-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/caco0516/sequelize-models-loader/issues"
+  },
+  "homepage": "https://github.com/caco0516/sequelize-models-loader",
   "dependencies": {
     "sequelize": "3.27.0"
   },
