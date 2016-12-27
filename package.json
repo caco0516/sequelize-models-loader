@@ -1,0 +1,29 @@
+{
+  "name": "sequelize-models-loader",
+  "version": "0.1.0",
+  "description": "It's a simple module for creating models loading from path easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test -R spec"
+  },
+  "keywords": [
+    "sequelize",
+    "models",
+    "import",
+    "easy",
+    "model",
+    "sequelize",
+    "best",
+    "practice"
+  ],
+  "author": "Carlos Castillo Oporta",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "3.27.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mock-sequelize": "^1.0.0"
+  }
+}
