@@ -1,3 +1,1 @@
-module.exports = function(){
-  return null;
-}
+module.exports = require('./lib/sequelize-models-loader.js');
